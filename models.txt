@@ -1,0 +1,2 @@
+Models are at:
+https://github.com/mozilla/DeepSpeech/releases
