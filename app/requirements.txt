@@ -1,0 +1,4 @@
+flask==2.2.2
+werkzeug==2.2.2
+SpeechRecognition==3.8.1
+moviepy==1.0.3
